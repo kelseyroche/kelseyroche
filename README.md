@@ -1,6 +1,10 @@
 # About me
 
+<!--
 ![Hi, I’m Kelsey!](https://github.com/user-attachments/assets/85509a2c-d0b9-47b4-a567-a8953a7c4a50)
+-->
+
+<img width="1070" alt="Screenshot 2025-02-18 at 6 44 31 PM" src="https://github.com/user-attachments/assets/65cda89b-e08d-4735-b376-a8dd469ca4a1" />
 
 
 
