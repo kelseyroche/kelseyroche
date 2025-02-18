@@ -3,7 +3,8 @@
 ![Hi, I’m Kelsey!](https://github.com/user-attachments/assets/85509a2c-d0b9-47b4-a567-a8953a7c4a50)
 -->
 
-![Blush Wave LinkedIn Banner](https://github.com/user-attachments/assets/512e7b33-b661-45cd-816d-2deaa4f2c6af)
+![Blush Wave LinkedIn Banner (1)](https://github.com/user-attachments/assets/dd20f36b-4e54-4965-879c-2a7bdd1e9055)
+
 
 
 
