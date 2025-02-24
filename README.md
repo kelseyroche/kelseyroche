@@ -34,7 +34,7 @@ A fantasy basketball league for WNBA fans, featuring live player stats and team 
 ### 🌍 [Wandr](https://jtrapp18.github.io/wandr-personal-travel-journal/)  
 A React-based application designed to document your travels, build itineraries for bucket list destinations, leave reviews and photos, and track visited places.  
 - **Tech Stack:** React  
-- [Repo](your-github-repo-link)  
+- [Repo](https://github.com/jtrapp18/wandr-personal-travel-journal)  
 
 <!---
 ### 🔍 [Women's Sports Watch Guide](your-live-project-link.com)  
