@@ -9,9 +9,9 @@
 
 
 
-### 🖥️ Front-End Developer | Passionate About Women's Sports & Tech
+### 🖥️ Full Stack Developer | Passionate About Women's Sports & Tech 🌈
 
-I'm a **front-end developer** with a background in sales operations and a passion for building user-friendly applications. I thrive on problem-solving, logic, and crafting smooth user experiences.
+I'm a **full stack developer** with a background in sales operations and a passion for building user-friendly applications. I thrive on problem-solving, logic, and crafting smooth user experiences.
 
 
 ## 💼 Check Out My Work  
