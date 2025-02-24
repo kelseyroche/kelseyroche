@@ -15,7 +15,7 @@ I'm a **front-end developer** with a background in sales operations and a passio
 
 
 ## 🌎 Check Out My Work  
-🚀 [My Portfolio]([s-portfolio-link.com](https://roche-portfolio-react.onrender.com/))  
+🚀 [My Portfolio](https://roche-portfolio-react.onrender.com/)  
 
 
 ## 🛠️ Skills & Technologies  
@@ -44,8 +44,8 @@ Brief description of your project.
 --->
 
 ## 🔗 Connect With Me  
-- [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/kelsey-roche/))  
-- [Dev]([your-hashnode-link](https://dev.to/kelseyroche))  
+- [LinkedIn](https://www.linkedin.com/in/kelsey-roche/)  
+- [Dev](https://dev.to/kelseyroche)  
 <!--
 **kelseyroche/kelseyroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
