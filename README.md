@@ -14,7 +14,7 @@
 I'm a **front-end developer** with a background in sales operations and a passion for building user-friendly applications. I thrive on problem-solving, logic, and crafting smooth user experiences.
 
 
-## 🌎 Check Out My Work  
+## 💼 Check Out My Work  
 🚀 [My Portfolio](https://roche-portfolio-react.onrender.com/)  
 
 
@@ -29,6 +29,11 @@ I'm a **front-end developer** with a background in sales operations and a passio
 ### 🏀 [WNBA Fantasy League](https://wnba-fantasy-league-1.onrender.com/)  
 A fantasy basketball league for WNBA fans, featuring live player stats and team management.  
 - **Tech Stack:** React, Flask, PostgreSQL, Styled-Components  
+- [Repo](your-github-repo-link)
+
+### 🌍 [Wandr](https://jtrapp18.github.io/wandr-personal-travel-journal/)  
+A React-based application designed to document your travels, build itineraries for bucket list destinations, leave reviews and photos, and track visited places.  
+- **Tech Stack:** React  
 - [Repo](your-github-repo-link)  
 
 <!---
