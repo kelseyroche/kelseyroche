@@ -13,10 +13,10 @@
 
 I'm a **front-end developer** with a background in sales operations and a passion for building user-friendly applications. I thrive on problem-solving, logic, and crafting smooth user experiences.
 
-<!---
+
 ## 🌎 Check Out My Work  
-🚀 [My Portfolio](your-portfolio-link.com)  
---->
+🚀 [My Portfolio]([s-portfolio-link.com](https://roche-portfolio-react.onrender.com/))  
+
 
 ## 🛠️ Skills & Technologies  
 - **Languages:** JavaScript, Python, SQL, HTML, CSS  
