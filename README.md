@@ -9,7 +9,8 @@
 
 ## SHE/HER
 
-### 🖥️ Full Stack Developer | Passionate About Women's Sports & Tech 🌈
+### 🖥️ Full Stack Developer 
+<!-- | Passionate About Women's Sports & Tech 🌈 -->
 
 I'm a **full stack developer** with a background in sales operations and a passion for building user-friendly applications. I thrive on problem-solving, logic, and crafting smooth user experiences.
 
@@ -22,7 +23,7 @@ I'm a **full stack developer** with a background in sales operations and a passi
 - **Languages:** JavaScript, Python, SQL, HTML, CSS  
 - **Frontend:** React, Vite, Styled-Components  
 - **Backend:** Flask, Node.js  
-- **Tools:** Git, Render, Postgres, Zsh  
+- **Tools:** Git, Render 
 
 ## 📌 Featured Projects  
 
