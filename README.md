@@ -33,7 +33,7 @@ I'm a **full stack developer** with a background in sales operations and a passi
 ### 🏀 [WNBA Fantasy League](https://wnba-fantasy-league-1.onrender.com/)  
 A fantasy basketball league for WNBA fans, featuring live player stats and team management.  
 - **Tech Stack:** React, Flask, PostgreSQL, Styled-Components  
-- [Repo](your-github-repo-link)
+- [Repo](https://github.com/kelseyroche/wnba-fantasy-league)
 
 ### 🌍 [Wandr](https://jtrapp18.github.io/wandr-personal-travel-journal/)  
 A React-based application designed to document your travels, build itineraries for bucket list destinations, leave reviews and photos, and track visited places.  
