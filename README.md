@@ -5,7 +5,7 @@
 <!--
 ![github banner pink](https://github.com/user-attachments/assets/6c992698-9586-451b-b1d9-da91d33f6c5d)
 -->
-![Blush Wave LinkedIn Banner (4)](https://github.com/user-attachments/assets/b07acd9d-19cd-46be-8b75-aa4742d509bf)
+![Blush Wave LinkedIn Banner (5)](https://github.com/user-attachments/assets/66027689-1441-4945-9bb1-883384c1d519)
 
 
 
