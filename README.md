@@ -30,7 +30,7 @@ I'm a **full stack developer** with a background in sales operations and a passi
 
 ## 📌 Featured Projects  
 
-### 🏀 [WNBA Fantasy League](https://wnba-fantasy-league-1.onrender.com/)  
+### 🏀 [WNBA Fantasy League](https://youtu.be/B9th5iHYpIM)
 A fantasy basketball league for WNBA fans, featuring live player stats and team management.  
 - **Tech Stack:** React, Flask, PostgreSQL, Styled-Components  
 - [Repo](https://github.com/kelseyroche/wnba-fantasy-league)
