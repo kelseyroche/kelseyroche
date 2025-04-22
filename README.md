@@ -38,7 +38,12 @@ A fantasy basketball league for WNBA fans, featuring live player stats and team 
 ### 🌍 [Wandr](https://jtrapp18.github.io/wandr-personal-travel-journal/)  
 A React-based application designed to document your travels, build itineraries for bucket list destinations, leave reviews and photos, and track visited places.  
 - **Tech Stack:** React  
-- [Repo](https://github.com/jtrapp18/wandr-personal-travel-journal)  
+- [Repo](https://github.com/jtrapp18/wandr-personal-travel-journal)
+
+### 🐉 [Fourth Wing Quiz](https://fourth-wing-quiz.onrender.com/)  
+Inspired by the captivating world of the Fourth Wing novels, the Threshing Quiz is an interactive web application designed to discover which dragon will choose you based on your personality traits.  Built with React and utilizing React Router, the application offers a seamless user experience with dynamic routing and state management.
+- **Tech Stack:** React  
+- [Repo](https://github.com/kelseyroche/fourth-wing-quiz)  
 
 <!---
 ### 🔍 [Women's Sports Watch Guide](your-live-project-link.com)  
