@@ -46,7 +46,8 @@ Inspired by the captivating world of the Fourth Wing novels, the Threshing Quiz 
 - [Repo](https://github.com/kelseyroche/fourth-wing-quiz)
 
 ### 🗺️ [My Travel Map](https://mytravelmap.onrender.com/)  
-My Travel Map is a dynamic, interactive travel map app built with React and Leaflet, allowing users to mark visited places, add personal notes, and visually track their global adventures. It features downloadable map images and Instagram Story–ready graphics, making it easy to share memories with style.- **Tech Stack:** React , Leaflet 
+My Travel Map is a dynamic, interactive travel map app built with React and Leaflet, allowing users to mark visited places, add personal notes, and visually track their global adventures. It features downloadable map images and Instagram Story–ready graphics, making it easy to share memories with style.
+- **Tech Stack:** React , Leaflet 
 - [Repo](https://github.com/kelseyroche/travel-map-tracker) 
 
 <!---
